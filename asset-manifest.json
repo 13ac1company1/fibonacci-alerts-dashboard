@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fibonacci-alerts-dashboard/static/css/main.bb20059a.css",
+    "main.js": "/fibonacci-alerts-dashboard/static/js/main.39115369.js",
+    "index.html": "/fibonacci-alerts-dashboard/index.html",
+    "main.bb20059a.css.map": "/fibonacci-alerts-dashboard/static/css/main.bb20059a.css.map",
+    "main.39115369.js.map": "/fibonacci-alerts-dashboard/static/js/main.39115369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb20059a.css",
+    "static/js/main.39115369.js"
+  ]
+}
