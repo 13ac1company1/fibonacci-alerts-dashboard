@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fibonacci-alerts-dashboard/static/css/main.d9bc5d6e.css",
-    "main.js": "/fibonacci-alerts-dashboard/static/js/main.abbd4221.js",
+    "main.js": "/fibonacci-alerts-dashboard/static/js/main.afbda3f0.js",
     "index.html": "/fibonacci-alerts-dashboard/index.html",
     "main.d9bc5d6e.css.map": "/fibonacci-alerts-dashboard/static/css/main.d9bc5d6e.css.map",
-    "main.abbd4221.js.map": "/fibonacci-alerts-dashboard/static/js/main.abbd4221.js.map"
+    "main.afbda3f0.js.map": "/fibonacci-alerts-dashboard/static/js/main.afbda3f0.js.map"
   },
   "entrypoints": [
     "static/css/main.d9bc5d6e.css",
-    "static/js/main.abbd4221.js"
+    "static/js/main.afbda3f0.js"
   ]
 }
