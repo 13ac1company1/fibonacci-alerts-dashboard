@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.chart-tooltip{position:absolute;pointer-events:none;padding:6px 8px;background:rgba(15,23,42,.95);color:#e2e8f0;border:1px solid rgba(148,163,184,.25);border-radius:.5rem;font-size:12px;transform:translate(8px,-50%);white-space:nowrap;z-index:30}
+.snap-line{position:absolute;left:0;right:0;border-top:1px dashed rgba(148,163,184,.35);z-index:20}
+.snap-line.highlight{border-top-style:solid;border-top-color:rgba(59,130,246,.9)}
